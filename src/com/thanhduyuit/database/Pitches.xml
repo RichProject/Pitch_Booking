@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Template -->
+<!-- <pitch> -->
+<!-- 		<name></name> -->
+<!-- 		<price></price> -->
+<!-- 		<note></note> -->
+<!-- 		<schedulesId></schedulesId> -->
+<!-- 		<stadiumId></stadiumId> -->
+<!-- 		<type></type> -->
+<!-- 		<status></status>		 -->
+<!-- </pitch> -->
+
+
+<pitchs>
+	<pitch>
+		<name>pitch_1</name>
+		<price>400k</price>
+		<note>nothing</note>
+		<schedulesId>SCHE1</schedulesId>
+		<stadiumId>Eth</stadiumId>
+		<type>five</type>
+		<status>available</status>		
+	</pitch>
+	<pitch>
+		<name>pitch_2</name>
+		<price>400k</price>
+		<note>beauty pitch</note>
+		<schedulesId>SCHE2</schedulesId>
+		<stadiumId>Eth</stadiumId>
+		<type>seven</type>
+		<status>unavailable</status>		
+	</pitch>
+	<pitch>
+		<name>pitch_3</name>
+		<price>500k</price>
+		<note>wonderful</note>
+		<schedulesId>SCHE3</schedulesId>
+		<stadiumId>Emr</stadiumId>
+		<type>seven</type>
+		<status>available</status>		
+	</pitch>
+	<pitch>
+		<name>pitch_4</name>
+		<price>900k</price>
+		<note>abcxyz</note>
+		<schedulesId>SCHE4</schedulesId>
+		<stadiumId>OldTra</stadiumId>
+		<type>eleven</type>
+		<status>available</status>		
+	</pitch>
+	<pitch>
+		<name>pitch_5</name>
+		<price>1000k</price>
+		<note>qwewqeqwe</note>
+		<schedulesId>SCHE5</schedulesId>
+		<stadiumId>OldTra</stadiumId>
+		<type>eleven</type>
+		<status>unavailable</status>		
+	</pitch>
+</pitchs>

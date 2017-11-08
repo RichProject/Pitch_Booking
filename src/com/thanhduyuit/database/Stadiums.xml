@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Template -->
+<!-- <stadium> -->
+<!-- 		<name></name> -->
+<!-- 		<stadiumId></stadiumId> -->
+<!-- 		<numberOfPitchs></numberOfPitchs> -->
+<!-- 		<isFull></isFull> -->
+<!-- 		<description></description> -->
+<!-- 		<review></review> -->
+<!-- </stadium> -->
+
+<stadiums>
+	<stadium>
+		<name>Etihad</name>
+		<stadiumId>Eth</stadiumId>
+		<numberOfPitchs>2</numberOfPitchs>
+		<isFull>false</isFull>
+		<description>The Champions</description>
+		<review>5</review>
+	</stadium>
+	<stadium>
+		<name>Emirate</name>
+		<stadiumId>Emr</stadiumId>
+		<numberOfPitchs>1</numberOfPitchs>
+		<isFull>true</isFull>
+		<description>Fouth Position</description>
+		<review>4</review>
+	</stadium>
+	<stadium>
+		<name>Old Trafford</name>
+		<stadiumId>OldTra</stadiumId>
+		<numberOfPitchs>2</numberOfPitchs>
+		<isFull>false</isFull>
+		<description>The Opera of dreaming</description>
+		<review>4</review>
+	</stadium>
+</stadiums>

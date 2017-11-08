@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<users>
+	<user>
+		<username>thanhduy.fpt</username>
+		<password>12345</password>
+		<fullname>Dang Thanh Duy</fullname>
+		<email>thanhduy.fpt@gmail.com</email>
+		<phoneNumber>1234567890</phoneNumber>
+		<userType>Owner</userType>
+		<note>My pitchs is beauty</note>
+	</user>
+	<user>
+		<username>quocdat.fpt</username>
+		<password>54321</password>
+		<fullname>Nguyen Quoc Dat</fullname>
+		<email>quocdat.fpt@gmail.com</email>
+		<phoneNumber>1337896552</phoneNumber>
+		<userType>Customer</userType>
+		<note>note</note>
+	</user>
+	<user>
+		<username>hieucx</username>
+		<password>13123213</password>
+		<fullname>Cao Xuan Hieu</fullname>
+		<email>hieucx@gmail.com</email>
+		<phoneNumber>213643514124</phoneNumber>
+		<userType>Owner</userType>
+		<note>nullasdsadsd</note>
+	</user>
+	<user>
+		<username>nguyentnc</username>
+		<password>8888888</password>
+		<fullname>Tran Nguyen Cong Nguyen</fullname>
+		<email>nguyentnc@gmail.com</email>
+		<phoneNumber>231312312312</phoneNumber>
+		<userType>Customer</userType>
+		<note>Customer note</note>
+	</user>
+</users>
